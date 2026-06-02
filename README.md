@@ -1,49 +1,69 @@
-# Md Akbar Ansari
+# Hi, I'm Akbar 👋
 
-Software Developer focused on building web applications using JavaScript, React, Node.js, and Python.
+Software Developer focused on building modern web applications with React, Node.js, and Python.
 
-Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University.
+Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University while exploring full-stack development, system design, and AI-powered applications.
 
-## Tech Stack
+---
 
-Languages:
-C++, JavaScript, Python, PHP
+### Tech Stack
 
-Frontend:
-React, Angular, HTML, CSS, Bootstrap
+**Languages**
 
-Backend:
-Node.js, Express.js, Django
+`C++` `JavaScript` `Python` `PHP`
 
-Databases:
-MongoDB, MySQL
+**Frontend**
 
-Tools:
-Git, GitHub, Postman
+`React` `Angular` `HTML` `CSS` `Bootstrap`
 
-## Selected Projects
+**Backend**
 
-### User Management System
-Full-stack CRUD application built with Node.js, Express.js, MongoDB, and Mongoose. Developed REST APIs, integrated cloud database deployment, and implemented dynamic frontend interactions.
+`Node.js` `Express.js` `Django`
 
-### Hospital Management System
-Role-based hospital management platform built with Django. Features include authentication, appointment scheduling, patient records, and doctor management.
+**Databases & Tools**
 
-## Experience & Activities
+`MongoDB` `MySQL` `Git` `GitHub` `Postman`
 
-- Hacktoberfest Workshop Participant
-- Augmented Reality Workshop (Spark Studio)
-- Volunteer Teacher at Abhilasha Foundation
+---
 
-## Certifications
+### Featured Projects
 
-- Cloud Computing (NPTEL)
-- Data Structures and Algorithms
-- Programming in C++
-- Front-End Web Development
+🚑 **Hospital Management System**
 
-## Contact
+Role-based web application built with Django featuring authentication, appointment scheduling, patient management, and doctor dashboards.
 
-LinkedIn: linkedin.com/in/mdakbaransari
+👥 **User Management System**
 
-Email: akbarnuman009@gmail.com
+Full-stack CRUD application built using Node.js, Express.js, MongoDB, and Mongoose with RESTful APIs and cloud database deployment.
+
+🌱 **Smart Fertilizer Planner**
+
+Agriculture-focused platform that helps farmers generate optimized fertilizer recommendations for specific land parcels.
+
+---
+
+### Beyond Coding
+
+* Open Source Enthusiast
+* Hacktoberfest Participant
+* Augmented Reality Workshop Attendee
+* German A2 Learner
+* Volunteer Teacher at Abhilasha Foundation
+
+---
+
+### Current Focus
+
+* Data Structures & Algorithms
+* Backend Architecture
+* System Design
+* AI Agents & Generative AI
+
+---
+
+### Connect
+
+LinkedIn → linkedin.com/in/mdakbaransari
+
+Email → [akbarnuman009@gmail.com](mailto:akbarnuman009@gmail.com)
+
