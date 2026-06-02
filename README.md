@@ -69,6 +69,6 @@ Email → [akbarnuman009@gmail.com](mailto:akbarnuman009@gmail.com)
 
 ---
 
-## Contributions
+## Activity
 
-![Tetris](https://github.com/akbarnuman/akbarnuman/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
