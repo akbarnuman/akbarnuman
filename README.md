@@ -10,11 +10,11 @@ Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Profes
 
 **Languages**
 
-`C++` `JavaScript` `Python` `PHP`
+`C++` `JavaScript` `Python` `JAVA`
 
 **Frontend**
 
-`React` `Angular` `HTML` `CSS` `Bootstrap`
+`React` `HTML` `CSS` `Bootstrap`
 
 **Backend**
 
@@ -22,23 +22,19 @@ Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Profes
 
 **Databases & Tools**
 
-`MongoDB` `MySQL` `Git` `GitHub` `Postman`
+`MongoDB` `MySQL` `Git` `GitHub`
 
 ---
 
 ### Featured Projects
 
-🚑 **Hospital Management System**
+🚑 **Mushroom Disease Detection System**
 
-Role-based web application built with Django featuring authentication, appointment scheduling, patient management, and doctor dashboards.
+Developed a full-stack AI application that leverages deep learning and computer vision to detect mushroom diseases from images with real-time predictions.
 
-👥 **User Management System**
+👥 **ChatApp**
 
-Full-stack CRUD application built using Node.js, Express.js, MongoDB, and Mongoose with RESTful APIs and cloud database deployment.
-
-🌱 **Smart Fertilizer Planner**
-
-Agriculture-focused platform that helps farmers generate optimized fertilizer recommendations for specific land parcels.
+Built a scalable real-time chat platform using the MERN stack and Socket.IO, featuring instant messaging, authentication, and a responsive user experience.
 
 ---
 
@@ -69,6 +65,4 @@ Email → [akbarnuman009@gmail.com](mailto:akbarnuman009@gmail.com)
 
 ---
 
-## Activity
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
