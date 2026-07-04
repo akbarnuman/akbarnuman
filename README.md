@@ -10,11 +10,11 @@ Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Profes
 
 **Languages**
 
-`C++` `JavaScript` `Python` `JAVA`
+`JAVA` `JavaScript` `Python` `C++`
 
 **Frontend**
 
-`React` `HTML` `CSS` `Bootstrap`
+`React` `HTML5` `CSS3` `Bootstrap`
 
 **Backend**
 
@@ -22,7 +22,7 @@ Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Profes
 
 **Databases & Tools**
 
-`MongoDB` `MySQL` `Git` `GitHub`
+`MongoDB Atlas` `Git` `GitHub` `Socket.IO` `JWT` `Cloudinary` `Vercel` `Render`
 
 ---
 
