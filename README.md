@@ -1,6 +1,6 @@
-# Hi, I'm Akbar 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=akbarnuman&color=blue&style=flat)
+<h1>Hi, I'm Akbar 👋
+  <img src="https://komarev.com/ghpvc/?username=akbarnuman&color=blue&style=flat" align="right" alt="Profile Views" />
+</h1>
 
 Software Developer focused on building modern web applications with React, Node.js, and Python.
 
