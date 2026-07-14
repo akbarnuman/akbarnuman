@@ -1,5 +1,7 @@
 # Hi, I'm Akbar 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=akbarnuman&color=blue&style=flat)
+
 Software Developer focused on building modern web applications with React, Node.js, and Python.
 
 Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University while exploring full-stack development, system design, and AI-powered applications.
