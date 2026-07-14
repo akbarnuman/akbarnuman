@@ -28,14 +28,6 @@ Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Profes
 
 ---
 
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbarnuman&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarnuman&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ### Featured Projects
 
 🚑 **Mushroom Disease Detection System**
