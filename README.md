@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=akbarnuman&color=blue&style=flat" align="right" alt="Profile Views" />
 </h1>
 
-Software Developer focused on building modern web applications with React, Node.js, and Python.
+Software Developer with a strong interest in full-stack development, scalable backend systems, and AI-powered applications.
 
-Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University while exploring full-stack development, system design, and AI-powered applications.
+Open to Software Engineer and Full-Stack Developer opportunities.
 
 ---
 
@@ -28,29 +28,17 @@ Currently pursuing a B.Tech in Computer Science and Engineering at Lovely Profes
 
 ---
 
-### Featured Projects
-
-🚑 **Mushroom Disease Detection System**
-
-Developed a full-stack AI application that leverages deep learning and computer vision to detect mushroom diseases from images with real-time predictions.
-
-👥 **ChatApp**
-
-Built a scalable real-time chat platform using the MERN stack and Socket.IO, featuring instant messaging, authentication, and a responsive user experience.
-
----
-
 ### Beyond Coding
 
+* German A2 Learner
 * Open Source Enthusiast
 * Hacktoberfest Participant
 * Augmented Reality Workshop Attendee
-* German A2 Learner
 * Volunteer Teacher at Abhilasha Foundation
 
 ---
 
-### Current Focus
+### Currently Exploring
 
 * Data Structures & Algorithms
 * Backend Architecture
