@@ -17,7 +17,7 @@ Open to Software Engineer and Full-Stack Developer opportunities.
 
 **Tools & Platforms:** `Git` `GitHub` `Socket.IO` `JWT` `Vercel` `Render` `Cloudinary` `Postman`
 
-**Core Concepts:** Data Structures & Algorithms, REST API Development, Agile/Problem-Solving, Generative AI, Agentic AI, Cloud Computing
+**Core Concepts:** `Data Structures & Algorithms, REST API Development, Agile/Problem-Solving, Generative AI, Agentic AI, Cloud Computing`
 
 ---
 
