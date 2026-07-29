@@ -9,22 +9,15 @@ Open to Software Engineer and Full-Stack Developer opportunities.
 ---
 
 ### Tech Stack
+**Languages:** `Java` `JavaScript` `HTML5` `CSS3`
 
-**Languages**
+**Frameworks & Libraries:** `React.js` `Node.js` `Express.js` `Tailwind CSS` `discord.js`
 
-`JAVA` `JavaScript` `Python` `C++`
+**Databases:** `MongoDB` `MongoDB Atlas` `Mongoose`
 
-**Frontend**
+**Tools & Platforms:** `Git` `GitHub` `Socket.IO` `JWT` `Vercel` `Render` `Cloudinary` `Postman`
 
-`React` `HTML5` `CSS3` `Bootstrap`
-
-**Backend**
-
-`Node.js` `Express.js` `Django`
-
-**Databases & Tools**
-
-`MongoDB Atlas` `Git` `GitHub` `Socket.IO` `JWT` `Cloudinary` `Vercel` `Render`
+**Core Concepts:** Data Structures & Algorithms, REST API Development, Agile/Problem-Solving, Generative AI, Agentic AI, Cloud Computing
 
 ---
 
