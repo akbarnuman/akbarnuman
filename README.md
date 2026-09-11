@@ -9,6 +9,7 @@ Open to Software Engineer and Full-Stack Developer opportunities.
 ---
 
 ### Tech Stack
+
 **Languages:** `Java` `JavaScript` `HTML5` `CSS3`
 
 **Frameworks & Libraries:** `React.js` `Node.js` `Express.js` `Tailwind CSS` `discord.js`
